@@ -1,11 +1,11 @@
-# japan-guide
+# Japan
 List of amazing things to eat, do and experience in Japan :japan:
 
 Just wanted to have a list of suggestions not only for future visits but also to share with friends who decide to make a trip to Nihon.
 
 Inspired by my Summer 2015 trip with Hayg. There was only so much we could do in nine days so the list isn't very comprehensive, but I promise it will grow.
 
-[Print this guide.](https://gitprint.com/SourenP/japan-guide/blob/master/README.md)
+[Print this guide.](https://gitprint.com/SourenP/curations/blob/master/locations/Japan.md)
 
 ## Tokyo
 
