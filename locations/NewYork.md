@@ -33,6 +33,7 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Soba Ya](http://www.yelp.com/biz/soba-ya-new-york)
 * [Totto Ramen](http://www.yelp.com/biz/totto-ramen-new-york)
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
+ * Hakata ramen
 * [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)*
 
 #### Chinese
@@ -49,7 +50,7 @@ List of amazing things to eat, do and experience in New York :apple:
 
 #### Dessert
 
-*[Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
+* [Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
 
 ### Experience
 
@@ -85,17 +86,17 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Smorgasburg](http://www.yelp.com/biz/williamsburg-smorgasburg-saturday-brooklyn)
  * Food theme park for adults.
 * [Chip Shop](http://www.yelp.com/biz/the-atlantic-chipshop-brooklyn)
- * Will deep fry ANYTHING.
+ * Will deep fry anything.
 
 ### Experience
 
 #### Bars
-*[Black Flamingo](http://www.yelp.com/biz/black-flamingo-brooklyn)
+* [Black Flamingo](http://www.yelp.com/biz/black-flamingo-brooklyn)
  * "The new La Bain"
 
 #### Museums
 
-* [The Brooklyn Museum]()
+* [The Brooklyn Museum](https://www.brooklynmuseum.org/)
 
 ## Misc
 
