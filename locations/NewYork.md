@@ -73,6 +73,10 @@ List of amazing things to eat, do and experience in New York :apple:
 
 * [Moma PS1](http://momaps1.org/)
  * Warmup party at the Moma.
+* [UCB East](http://www.yelp.com/biz/upright-citizens-brigade-theatre-east-new-york-2)
+ * More standup comedy club. Lots of guest celebs.
+* [UCB West](http://www.yelp.com/biz/upright-citizens-brigade-theatre-new-york-5)
+ * More improv comedy club.
 
 ## Brooklyn
 
