@@ -8,12 +8,27 @@ List of amazing things to eat, do and experience in New York :apple:
 #### American
 
 * [The Spotted Pig](http://www.thespottedpig.com/)*
- * Michelin :star:, probably amazing brunch.
+ * Michelin star, probably amazing brunch.
 * [Criff Dogs](http://www.yelp.com/biz/crif-dogs-new-york)
  * Delicious New York hot dogs. More about the toppings than the dogs. Also storefront for PDT.
 * [Joe's Pizza](http://www.yelp.com/biz/joes-pizza-new-york-4)
  * Best slice I've had.
 * [Luke's Lobster](http://www.yelp.com/biz/lukes-lobster-new-york)
+
+#### Brunch :sunny:
+* [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
+* [La Bonbonniere](http://www.yelp.com/biz/la-bonbonniere-new-york)
+
+*See [Chinese](# chinese) for Dim Sum brunch!*
+
+#### Italian
+* [Max Soha](http://www.yelp.com/biz/max-soha-new-york)
+ * Columbia Classic
+* [Crispo](http://www.yelp.com/biz/crispo-new-york)*
+* [Frankies Spuntino](http://www.yelp.com/biz/frankies-spuntino-new-york-2)*
+* [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)*
+ * get the sheep’s milk ricotta and save room for dessert
+
 
 #### French
 
@@ -35,13 +50,20 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
  * Hakata ramen
 * [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)*
+* [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)*
+* [Momo Sushi Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)*
+* [Takashi](http://www.yelp.com/biz/takashi-new-york)*
 
 #### Chinese
 
 * [Joe's Shanghai](http://www.yelp.com/biz/joes-shanghai-new-york-2)
 * [Wah Fung](http://www.yelp.com/biz/wah-fung-1-fast-food-new-york-2)
- * Chinese street meat, best BBQ Pork. 
+ * Chinese street meat, best BBQ Pork.
 * [Xi'an Famous Foods](http://www.yelp.com/biz/xian-famous-foods-new-york-6)
+* [Golden Unicorn](http://www.yelp.com/biz/golden-unicorn-new-york)
+ * Dim Sum Brunch
+* [Oriental Garden](http://www.yelp.com/biz/oriental-garden-restaurant-new-york)
+
 
 #### Middle Eastern
 
@@ -51,6 +73,35 @@ List of amazing things to eat, do and experience in New York :apple:
 #### Dessert
 
 * [Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
+
+#### Feeling Hoity Toity:
+* Brandy Library
+ * Lounge, Tribeca (literal bookshelves of liquor)
+* Fedora
+ * American, W Village (i’ve never eaten there, but drop in for the cocktails)
+* Hudson Clearwater
+ * American, W Village (date night)
+* Little Branch
+ * Cocktail Den, W Village
+* Maison Premiere
+ * Oysters, Williamsburg
+* Saturdays Surf NYC
+ * Coffee, SoHo
+ * Coffee shop & patio in the back of a surf shop
+
+#### The Late Night
+* [Bubby’s Pie Company](http://www.yelp.com/biz/bubbys-new-york?osq=Bubby%27s+Pie+Companys)
+ * blueberry pancakes, open 24/7
+* [Corner Bistro](http://www.yelp.com/biz/corner-bistro-new-york)
+ * end your night w/ cheap beer & the house burger
+
+#### In Obscurity
+* Dinosaur BBQ
+ * BBQ, Harlem
+* Lucali
+ * Pizza, Carroll Gardens
+* Tortilleria Mexicana Los Hermanos | Tacos, Bushwick
+ * tacos from a tortilla factory
 
 ### Experience
 
@@ -69,6 +120,25 @@ List of amazing things to eat, do and experience in New York :apple:
 * [La Bain](http://www.yelp.com/biz/le-bain-new-york?osq=la+bain)
  * Classic La Bain, top of The Standard.
 
+#### Drinks
+
+* B Flat | Cocktails, Tribeca
+ * Underground jazz & cocktails
+ * get the fried chicken app
+* Burp Castle | Pub, E Village
+ * “Temple of beer worship”; you will get shh’d by the bartender if your conversation is too loud
+* Ear Inn | Dive, SoHo
+ * one of the oldest in ny
+* Fat Cat | Pool Hall, W Village
+ * live music, ping pong, shuffle, pool, games
+* Mother’s Ruin | Cocktails, Nolita
+* Pine Box Rock Shop | Bloody Mary's, Bushwick
+ * on a 1-10 spicyness scale
+* Smith & Mills | Cocktails, Tribeca
+ * drop in before/after dinner at Locanda
+* Terroir | Wine Bar, Tribeca
+ * hipster bearded winos
+
 #### Todo
 
 * [Moma PS1](http://momaps1.org/)
@@ -85,6 +155,12 @@ List of amazing things to eat, do and experience in New York :apple:
 #### American
 * [Fette Sau](http://www.yelp.com/biz/fette-sau-brooklyn)
 * [Roberta's Pizza](http://www.yelp.com/biz/robertas-brooklyn-2)
+* [St. Anslem](http://www.yelp.com/biz/st-anselm-brooklyn)
+ * steak & pan-fried mashed potatoes; try & get a seat at the bar to watch the grill; grab a drink in spuyten duyvil’s backyard while you wait
+
+#### Pizza
+
+* [Di Fara](http://www.yelp.com/biz/di-fara-pizza-brooklyn)
 
 #### Misc
 * [Smorgasburg](http://www.yelp.com/biz/williamsburg-smorgasburg-saturday-brooklyn)
@@ -92,21 +168,54 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Chip Shop](http://www.yelp.com/biz/the-atlantic-chipshop-brooklyn)
  * Will deep fry anything.
 
+
+#### $$$$
+[Chef’s Table at Brooklyn Fare ](http://www.yelp.com/biz/chefs-table-at-brooklyn-fare-brooklyn-3)
+ * ZZ - "top 5 meals of my lifeee"
+
 ### Experience
 
 #### Bars
 * [Black Flamingo](http://www.yelp.com/biz/black-flamingo-brooklyn)
  * "The new La Bain"
 
+#### Brooklyn Bar Hop (south to north):
+* [Barcade](http://www.yelp.com/biz/barcade-brooklyn)
+ * arcade machines + beer shelves
+* [Commodore](http://www.yelp.com/biz/the-commodore-brooklyn)
+ * fried chicken + cocktails
+* [Spuyten Duyvil](http://www.yelp.com/biz/spuyten-duyvil-brooklyn)
+ * backyard + obscure beer
+* [Spitzenhaus](http://www.yelp.com/biz/spritzenhaus-brooklyn)
+ * jenga + beer
+* [The Diamond](http://www.yelp.com/biz/the-diamond-brooklyn)
+ * shuffleboard
+* [Brouwerij Lane](http://www.yelp.com/biz/brouwerij-lane-brooklyn)
+ * unassuming beer store with a few taps & a little back patio
+
+
 #### Museums
 
 * [The Brooklyn Museum](https://www.brooklynmuseum.org/)
 
-## Misc
+#### Other
+
+* [PIPS Table Tennis & Art Space](http://www.pipsout.com/)
+ * donation-based; rent a paddle, sip beer, check out art
+* [Sara D. Roosevelt Park](http://www.nycgovparks.org/parks/sara-d-roosevelt-park/map)
+ * Hipster Bike Polo - watch sunday afternoon games
+
+## Miscs
 
 ## Credits and Thanks
 
 A great majority of these were suggested to me by others. Just sharing what I've collected from friends and adding my own!
+
+Special Thanks!
+* Vahakn
+* Alec
+* Topo ZZ
+* Yokopopo
 
 Email me suggestions at souren@papazian.info if you want to contribute!
 
