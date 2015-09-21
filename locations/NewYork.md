@@ -14,6 +14,12 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Joe's Pizza](http://www.yelp.com/biz/joes-pizza-new-york-4)
  * Best slice I've had.
 * [Luke's Lobster](http://www.yelp.com/biz/lukes-lobster-new-york)
+* [ABC Kitchen](http://www.yelp.com/biz/abc-kitchen-new-york)
+ * Fancy Burgers (everything's great actually)
+* [Blue Hill](http://www.yelp.com/biz/blue-hill-new-york)
+  * Netflix’s Chef’s Table with Dan Barber
+  * “farm to table” to the max
+  * $$$$
 
 #### Brunch :sunny:
 * [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
@@ -28,7 +34,14 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Frankies Spuntino](http://www.yelp.com/biz/frankies-spuntino-new-york-2)*
 * [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)*
  * get the sheep’s milk ricotta and save room for dessert
-
+* [Carbone](http://www.yelp.com/biz/carbone-new-york)
+ * feels like a restaurant that the godfather would have eaten at.
+ * not super fancy (but $$$$)
+ * must get: veal parmesan
+* [II Buco Alimentari & Vineria](http://www.yelp.com/biz/il-buco-alimentari-and-vineria-new-york-2?osq=Il+Buco+Alimentari+e+Vineria)
+  * casual italian, amazing pastas
+  * must get: pastas and the short rib
+* [Lupa](http://www.yelp.com/biz/lupa-new-york)
 
 #### French
 
@@ -45,14 +58,26 @@ List of amazing things to eat, do and experience in New York :apple:
 
 #### Japanese :ramen:
 
-* [Soba Ya](http://www.yelp.com/biz/soba-ya-new-york)
+* [Soba Ya](http://www.yelp.com/biz/sobsa-ya-new-york)
+  * New Yorks favorite Ramen - hours of waiting
 * [Totto Ramen](http://www.yelp.com/biz/totto-ramen-new-york)
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
- * Hakata ramen
+  * Hakata ramen
 * [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)*
 * [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)*
-* [Momo Sushi Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)*
+* [Momo Sushi  Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)*
 * [Takashi](http://www.yelp.com/biz/takashi-new-york)*
+* [Yakitori Totto](http://www.yelp.com/biz/yakitori-totto-new-york)
+  * authentic yakitori
+* [Kyo Ya](http://www.yelp.com/biz/kyo-ya-new-york)
+  * 3 hour kaiseki meal is outstanding
+  * la carte menu is also amazing
+  * must get: pressed sushi, uni
+  * $$$$
+* [Brushstroke](http://www.yelp.com/biz/brushstroke-new-york)
+  * more modern than Kyo Ya
+  * fantastic kaiseki option
+  * $$$$
 
 #### Chinese
 
@@ -60,10 +85,22 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Wah Fung](http://www.yelp.com/biz/wah-fung-1-fast-food-new-york-2)
  * Chinese street meat, best BBQ Pork.
 * [Xi'an Famous Foods](http://www.yelp.com/biz/xian-famous-foods-new-york-6)
-* [Golden Unicorn](http://www.yelp.com/biz/golden-unicorn-new-york)
- * Dim Sum Brunch
-* [Oriental Garden](http://www.yelp.com/biz/oriental-garden-restaurant-new-york)
 
+##### Dim Sum
+
+* [Golden Unicorn](http://www.yelp.com/biz/golden-unicorn-new-york)
+* [Oriental Garden](http://www.yelp.com/biz/oriental-garden-restaurant-new-york)
+* [Jing Fong](http://www.yelp.com/biz/jing-fong-restaurant-new-york)
+* [Nom Wah Tea Parlor](http://www.yelp.com/search?find_desc=Nom+Wah+Tea+Parlor&find_loc=Manhattan%2C+NY&ns=1)
+
+#### Korean
+
+* [Momofuku Ssam Bar](http://www.yelp.com/biz/momofuku-ss%C3%A4m-bar-new-york-4)
+ * japanese korean fusion
+ * meat centric
+ * menu is constantly changing
+ * must get: pork buns, kimchi
+ * $$$
 
 #### Middle Eastern
 
@@ -158,9 +195,10 @@ List of amazing things to eat, do and experience in New York :apple:
 * [St. Anslem](http://www.yelp.com/biz/st-anselm-brooklyn)
  * steak & pan-fried mashed potatoes; try & get a seat at the bar to watch the grill; grab a drink in spuyten duyvil’s backyard while you wait
 
-#### Pizza
+#### Pizza :pizza:
 
 * [Di Fara](http://www.yelp.com/biz/di-fara-pizza-brooklyn)
+* [Lucali](http://www.yelp.com/biz/lucali-brooklyn-3)
 
 #### Misc
 * [Smorgasburg](http://www.yelp.com/biz/williamsburg-smorgasburg-saturday-brooklyn)
@@ -216,6 +254,7 @@ Special Thanks!
 * Alec
 * Topo ZZ
 * Yokopopo
+* Reed
 
 Email me suggestions at souren@papazian.info if you want to contribute!
 
