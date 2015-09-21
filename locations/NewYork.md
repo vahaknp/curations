@@ -25,7 +25,7 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
 * [La Bonbonniere](http://www.yelp.com/biz/la-bonbonniere-new-york)
 
-*See [Chinese](# chinese) for Dim Sum brunch!*
+*See [Chinese](#chinese) for Dim Sum brunch!*
 
 #### Italian
 * [Max Soha](http://www.yelp.com/biz/max-soha-new-york)
