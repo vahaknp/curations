@@ -59,10 +59,10 @@ List of amazing things to eat, do and experience in New York :apple:
 #### Japanese :ramen:
 
 * [Soba Ya](http://www.yelp.com/biz/sobsa-ya-new-york)
-  * New Yorks favorite Ramen - hours of waiting
+  * Authentic Japanese food, one of my favorites in nyc.
 * [Totto Ramen](http://www.yelp.com/biz/totto-ramen-new-york)
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
-  * Hakata ramen
+  * New Yorks favorite Ramen - hours of waiting
 * [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)
 * [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)
 * [Momo Sushi  Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)
