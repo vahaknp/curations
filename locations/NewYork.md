@@ -110,6 +110,7 @@ List of amazing things to eat, do and experience in New York :apple:
 #### Dessert
 
 * [Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
+* [DOUGH](http://www.yelp.com/biz/dough-new-york-2)
 
 #### Feeling Hoity Toity:
 * Brandy Library
