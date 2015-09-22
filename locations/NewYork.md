@@ -7,7 +7,7 @@ List of amazing things to eat, do and experience in New York :apple:
 
 #### American
 
-* [The Spotted Pig](http://www.thespottedpig.com/)*
+* [The Spotted Pig](http://www.thespottedpig.com/)
  * Michelin star, probably amazing brunch.
 * [Criff Dogs](http://www.yelp.com/biz/crif-dogs-new-york)
  * Delicious New York hot dogs. More about the toppings than the dogs. Also storefront for PDT.
@@ -30,9 +30,9 @@ List of amazing things to eat, do and experience in New York :apple:
 #### Italian
 * [Max Soha](http://www.yelp.com/biz/max-soha-new-york)
  * Columbia Classic
-* [Crispo](http://www.yelp.com/biz/crispo-new-york)*
-* [Frankies Spuntino](http://www.yelp.com/biz/frankies-spuntino-new-york-2)*
-* [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)*
+* [Crispo](http://www.yelp.com/biz/crispo-new-york)
+* [Frankies Spuntino](http://www.yelp.com/biz/frankies-spuntino-new-york-2)
+* [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)
  * get the sheep’s milk ricotta and save room for dessert
 * [Carbone](http://www.yelp.com/biz/carbone-new-york)
  * feels like a restaurant that the godfather would have eaten at.
@@ -63,10 +63,10 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Totto Ramen](http://www.yelp.com/biz/totto-ramen-new-york)
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
   * Hakata ramen
-* [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)*
-* [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)*
-* [Momo Sushi  Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)*
-* [Takashi](http://www.yelp.com/biz/takashi-new-york)*
+* [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)
+* [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)
+* [Momo Sushi  Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)
+* [Takashi](http://www.yelp.com/biz/takashi-new-york)
 * [Yakitori Totto](http://www.yelp.com/biz/yakitori-totto-new-york)
   * authentic yakitori
 * [Kyo Ya](http://www.yelp.com/biz/kyo-ya-new-york)
@@ -257,5 +257,3 @@ Special Thanks!
 * Reed
 
 Email me suggestions at souren@papazian.info if you want to contribute!
-
-**haven't tried myself, most likely great though*
