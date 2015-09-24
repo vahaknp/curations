@@ -16,10 +16,6 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Luke's Lobster](http://www.yelp.com/biz/lukes-lobster-new-york)
 * [ABC Kitchen](http://www.yelp.com/biz/abc-kitchen-new-york)
  * Fancy Burgers (everything's great actually)
-* [Blue Hill](http://www.yelp.com/biz/blue-hill-new-york)
-  * Netflix’s Chef’s Table with Dan Barber
-  * “farm to table” to the max
-  * $$$$
 
 #### Brunch :sunny:
 * [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
@@ -32,16 +28,6 @@ List of amazing things to eat, do and experience in New York :apple:
  * Columbia Classic
 * [Crispo](http://www.yelp.com/biz/crispo-new-york)
 * [Frankies Spuntino](http://www.yelp.com/biz/frankies-spuntino-new-york-2)
-* [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)
- * get the sheep’s milk ricotta and save room for dessert
-* [Carbone](http://www.yelp.com/biz/carbone-new-york)
- * feels like a restaurant that the godfather would have eaten at.
- * not super fancy (but $$$$)
- * must get: veal parmesan
-* [II Buco Alimentari & Vineria](http://www.yelp.com/biz/il-buco-alimentari-and-vineria-new-york-2?osq=Il+Buco+Alimentari+e+Vineria)
-  * casual italian, amazing pastas
-  * must get: pastas and the short rib
-* [Lupa](http://www.yelp.com/biz/lupa-new-york)
 
 #### French
 
@@ -64,20 +50,14 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Ippudo Ramen](http://www.yelp.com/biz/ippudo-westside-new-york)
   * New Yorks favorite Ramen - hours of waiting
 * [Ivan Ramen](http://www.yelp.com/biz/ivan-ramen-new-york)
+* [Momofuku Noodle Bar](http://www.yelp.com/biz/momofuku-noodle-bar-new-york)
+ * excellent noodle texture 
 * [Tomoe Sushi](http://www.yelp.com/biz/tomoe-sushi-new-york)
 * [Momo Sushi  Shack](http://www.yelp.com/biz/momo-sushi-shack-brooklyn)
 * [Takashi](http://www.yelp.com/biz/takashi-new-york)
 * [Yakitori Totto](http://www.yelp.com/biz/yakitori-totto-new-york)
   * authentic yakitori
-* [Kyo Ya](http://www.yelp.com/biz/kyo-ya-new-york)
-  * 3 hour kaiseki meal is outstanding
-  * la carte menu is also amazing
-  * must get: pressed sushi, uni
-  * $$$$
-* [Brushstroke](http://www.yelp.com/biz/brushstroke-new-york)
-  * more modern than Kyo Ya
-  * fantastic kaiseki option
-  * $$$$
+
 
 #### Chinese
 
@@ -109,23 +89,51 @@ List of amazing things to eat, do and experience in New York :apple:
 
 #### Dessert
 
+* [Veniero's](http://www.yelp.com/biz/venieros-pastry-shop-new-york)
+ * Amazing canolli and cheese cake
 * [Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
 * [DOUGH](http://www.yelp.com/biz/dough-new-york-2)
-
-#### Feeling Hoity Toity:
-* Brandy Library
- * Lounge, Tribeca (literal bookshelves of liquor)
-* Fedora
- * American, W Village (i’ve never eaten there, but drop in for the cocktails)
-* Hudson Clearwater
- * American, W Village (date night)
-* Little Branch
- * Cocktail Den, W Village
-* Maison Premiere
- * Oysters, Williamsburg
-* Saturdays Surf NYC
+* [Saturdays Surf NYC](http://www.yelp.com/biz/saturdays-surf-nyc-new-york)
  * Coffee, SoHo
  * Coffee shop & patio in the back of a surf shop
+
+#### Feeling Hoity Toity ($$$-$$$$)
+
+* [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)
+ * get the sheep’s milk ricotta and save room for dessert
+* [Carbone](http://www.yelp.com/biz/carbone-new-york)
+ * feels like a restaurant that the godfather would have eaten at.
+ * not super fancy (but $$$$)
+ * must get: veal parmesan
+* [II Buco Alimentari & Vineria](http://www.yelp.com/biz/il-buco-alimentari-and-vineria-new-york-2?osq=Il+Buco+Alimentari+e+Vineria)
+  * casual italian, amazing pastas
+  * must get: pastas and the short rib
+* [Lupa](http://www.yelp.com/biz/lupa-new-york)
+* [Blue Hill](http://www.yelp.com/biz/blue-hill-new-york)
+  * Netflix’s Chef’s Table with Dan Barber
+  * “farm to table” to the max
+  * $$$$
+* [Kyo Ya](http://www.yelp.com/biz/kyo-ya-new-york)
+  * 3 hour kaiseki meal is outstanding
+  * la carte menu is also amazing
+  * must get: pressed sushi, uni
+  * $$$$
+* [Brushstroke](http://www.yelp.com/biz/brushstroke-new-york)
+  * more modern than Kyo Ya
+  * fantastic kaiseki option
+  * $$$$
+* [Maison Premiere](http://www.yelp.com/biz/maison-premiere-brooklyn)
+ * Oysters, Williamsburg
+* [Brandy Library](http://www.yelp.com/biz/brandy-library-new-york)
+ * Lounge, Tribeca
+ * literal bookshelves of liquor
+* [Fedora](http://www.yelp.com/biz/fedora-new-york-2)
+ * American, W Village
+ * coctails
+* [Hudson Clearwater](http://www.yelp.com/biz/hudson-clearwater-new-york)
+ * American, W Village (date night)
+* [Little Branch](http://www.yelp.com/biz/little-branch-new-york)
+ * Cocktail Den, W Village
 
 #### The Late Night
 * [Bubby’s Pie Company](http://www.yelp.com/biz/bubbys-new-york?osq=Bubby%27s+Pie+Companys)
@@ -256,5 +264,6 @@ Special Thanks!
 * Topo ZZ
 * Yokopopo
 * Reed
+* Ramen Club
 
 Email me suggestions at souren@papazian.info if you want to contribute!
