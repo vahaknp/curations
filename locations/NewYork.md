@@ -18,6 +18,8 @@ Columbia :crown:
 * [Jin Ramen] (http://www.yelp.com/biz/jin-ramen-new-york)
  * Solid Ramen 
 * [Thai Market] (http://www.yelp.com/biz/thai-market-new-york)
+* [Sookk] (http://www.yelp.com/biz/sookk-new-york-2)
+* [Dinosaur BBQ] (http://www.yelp.com/biz/dinosaur-bar-b-que-new-york-2)
 * [Xian Famous Foods] (http://www.yelp.com/biz/xian-famous-foods-new-york-8)
 * [Crepes on Columbus] (http://www.yelp.com/biz/crepes-on-columbus-new-york) 
  * Breakfast/Brunch
