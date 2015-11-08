@@ -23,6 +23,8 @@ Columbia :crown:
 * [Xian Famous Foods] (http://www.yelp.com/biz/xian-famous-foods-new-york-8)
 * [Crepes on Columbus] (http://www.yelp.com/biz/crepes-on-columbus-new-york) 
  * Breakfast/Brunch
+* [Plowshares Coffee] (http://www.yelp.com/biz/plowshares-coffee-roasters-new-york-2)
+ * Best in the neighborhood :coffee:. Get after bagels.
 
 #### American
 
