@@ -5,6 +5,23 @@ List of amazing things to eat, do and experience in New York :apple:
 
 ### Food
 
+#### Morningside Heights
+Columbia :crown:
+
+* [Max Soha] (http://www.yelp.com/biz/max-soha-new-york)
+ * Best food in the nieghborhood
+ * Decently priced homemade-esque italian
+* [Absolute Bagels](http://www.yelp.com/biz/absolute-bagels-new-york)
+ * Best bagels in Manhattan 
+* [Doaba Deli] (http://www.yelp.com/biz/doaba-deli-new-york-2)
+ * Authentic Indian 
+* [Jin Ramen] (http://www.yelp.com/biz/jin-ramen-new-york)
+ * Solid Ramen 
+* [Thai Market] (http://www.yelp.com/biz/thai-market-new-york)
+* [Xian Famous Foods] (http://www.yelp.com/biz/xian-famous-foods-new-york-8)
+* [Crepes on Columbus] (http://www.yelp.com/biz/crepes-on-columbus-new-york) 
+ * Breakfast/Brunch
+
 #### American
 
 * [The Spotted Pig](http://www.thespottedpig.com/)
@@ -16,6 +33,7 @@ List of amazing things to eat, do and experience in New York :apple:
 * [Luke's Lobster](http://www.yelp.com/biz/lukes-lobster-new-york)
 * [ABC Kitchen](http://www.yelp.com/biz/abc-kitchen-new-york)
  * Fancy Burgers (everything's great actually)
+* [Artichoke Basille's Pizza] (http://www.yelp.com/biz/artichoke-basilles-pizza-new-york-3)
 
 #### Brunch :sunny:
 * [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
@@ -84,6 +102,8 @@ List of amazing things to eat, do and experience in New York :apple:
 
 #### Middle Eastern
 
+* [Manousheh] (http://www.yelp.com/biz/manousheh-new-york-2)
+ * Mana'eesh!
 * [The Halal Guys](http://www.yelp.com/biz/the-halal-guys-new-york-8)
  * Storefront for classic street meat.
 
