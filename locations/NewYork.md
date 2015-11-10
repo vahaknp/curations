@@ -12,11 +12,15 @@ Columbia :crown:
  * Best food in the nieghborhood
  * Decently priced homemade-esque italian
 * [Absolute Bagels](http://www.yelp.com/biz/absolute-bagels-new-york)
- * Best bagels in Manhattan 
+ * Best bagels in Manhattan
+* [Hungarian Pastry Shop] (http://www.yelp.com/biz/hungarian-pastry-shop-new-york)
+ * Cozy and delicious but no wifi (intentionally) 
+ * Tuesday nights the Gotham Go Club meets up here to play
 * [Doaba Deli] (http://www.yelp.com/biz/doaba-deli-new-york-2)
  * Authentic Indian 
 * [Jin Ramen] (http://www.yelp.com/biz/jin-ramen-new-york)
  * Solid Ramen 
+* [Freda's Caribbean & Soul Cuisine] (http://www.yelp.com/biz/fredas-caribbean-and-soul-cuisine-new-york)
 * [Thai Market] (http://www.yelp.com/biz/thai-market-new-york)
 * [Sookk] (http://www.yelp.com/biz/sookk-new-york-2)
 * [Dinosaur BBQ] (http://www.yelp.com/biz/dinosaur-bar-b-que-new-york-2)
