@@ -282,6 +282,8 @@ Columbia :crown:
 
 ## Miscs
 
+[Top New York Restaurants of 2015](http://www.nytimes.com/2015/12/16/dining/best-restaurants-in-nyc.html)
+
 ## Credits and Thanks
 
 A great majority of these were suggested to me by others. Just sharing what I've collected from friends and adding my own!
