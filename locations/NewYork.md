@@ -124,6 +124,8 @@ Columbia :crown:
 * [Saturdays Surf NYC](http://www.yelp.com/biz/saturdays-surf-nyc-new-york)
  * Coffee, SoHo
  * Coffee shop & patio in the back of a surf shop
+* [Dominique Ansel Bakery](http://www.yelp.com/biz/dominique-ansel-bakery-new-york)
+ * Cronuts
 
 #### Feeling Hoity Toity ($$$-$$$$)
 
