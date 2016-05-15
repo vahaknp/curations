@@ -138,6 +138,8 @@ List of amazing things to eat, do and experience in SF
 * [Berkeley Bowl](https://www.yelp.com/biz/berkeley-bowl-west-berkeley)
 * [MeloMelo Kava Bar](https://www.yelp.com/biz/melomelo-kava-bar-berkeley)
 
+## [Map](https://www.google.com/maps/d/u/0/edit?hl=en_US&app=mp&mid=19wBUtFIdC1u94vChhO010rqLy6c)
+
 ## Credits and Thanks
 
 A great majority of these were suggested to me by others. Just sharing what I've collected from friends and adding my own!
