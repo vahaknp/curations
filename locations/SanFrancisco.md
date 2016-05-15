@@ -25,6 +25,9 @@ List of amazing things to eat, do and experience in SF
 * [Farmhouse Thai](https://www.yelp.com/biz/farmhouse-kitchen-thai-cuisine-san-francisco)
 * [Muracci's Japanese Curry](https://www.yelp.com/biz/muraccis-japanese-curry-and-grill-san-francisco)
 * [Sushi Time](https://www.yelp.com/biz/sushi-time-san-francisco-2)
+* [Elephant Sushi](https://www.yelp.com/biz/elephant-sushi-san-francisco-7)
+* [Japanese Tea Garden](https://www.yelp.com/biz/japanese-tea-garden-san-francisco)
+* [Dumpling Kitchen](https://www.yelp.com/biz/dumpling-kitchen-san-francisco)
 
 #### Mexican
 * [La Taqueria](https://www.yelp.com/biz/la-taqueria-san-francisco-2)
@@ -59,6 +62,7 @@ List of amazing things to eat, do and experience in SF
 * [ABV](https://www.yelp.com/biz/abv-san-francisco-2)
 * [Two Sisters Bar and Books](https://www.yelp.com/biz/two-sisters-bar-and-books-san-francisco)
 * [Sycamore](https://www.yelp.com/biz/the-sycamore-san-francisco)
+* [Rye](https://www.yelp.com/biz/rye-san-francisco)
 
 #### Museums 
 * [California Academy of Sciences](https://www.yelp.com/biz/california-academy-of-sciences-san-francisco)
