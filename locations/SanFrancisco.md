@@ -137,6 +137,7 @@ List of amazing things to eat, do and experience in SF
 ### Misc
 * [Berkeley Bowl](https://www.yelp.com/biz/berkeley-bowl-west-berkeley)
 * [MeloMelo Kava Bar](https://www.yelp.com/biz/melomelo-kava-bar-berkeley)
+* [Victory Point Cafe](https://www.yelp.com/biz/victory-point-cafe-berkeley)
 
 ## [Map](https://www.google.com/maps/d/u/0/edit?hl=en_US&app=mp&mid=19wBUtFIdC1u94vChhO010rqLy6c)
 
