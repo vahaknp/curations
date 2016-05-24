@@ -8,26 +8,26 @@ List of amazing things to eat, do and experience in New York :apple:
 #### Morningside Heights
 Columbia :crown:
 
-* [Max Soha] (http://www.yelp.com/biz/max-soha-new-york)
+* [Max Soha](http://www.yelp.com/biz/max-soha-new-york)
  * Best food in the nieghborhood
  * Decently priced homemade-esque italian
 * [Absolute Bagels](http://www.yelp.com/biz/absolute-bagels-new-york)
  * Best bagels in Manhattan
-* [Hungarian Pastry Shop] (http://www.yelp.com/biz/hungarian-pastry-shop-new-york)
+* [Hungarian Pastry Shop](http://www.yelp.com/biz/hungarian-pastry-shop-new-york)
  * Cozy and delicious but no wifi (intentionally) 
  * Tuesday nights the Gotham Go Club meets up here to play
-* [Doaba Deli] (http://www.yelp.com/biz/doaba-deli-new-york-2)
+* [Doaba Deli](http://www.yelp.com/biz/doaba-deli-new-york-2)
  * Authentic Indian 
-* [Jin Ramen] (http://www.yelp.com/biz/jin-ramen-new-york)
+* [Jin Ramen](http://www.yelp.com/biz/jin-ramen-new-york)
  * Solid Ramen 
-* [Freda's Caribbean & Soul Cuisine] (http://www.yelp.com/biz/fredas-caribbean-and-soul-cuisine-new-york)
-* [Thai Market] (http://www.yelp.com/biz/thai-market-new-york)
-* [Sookk] (http://www.yelp.com/biz/sookk-new-york-2)
-* [Dinosaur BBQ] (http://www.yelp.com/biz/dinosaur-bar-b-que-new-york-2)
-* [Xian Famous Foods] (http://www.yelp.com/biz/xian-famous-foods-new-york-8)
-* [Crepes on Columbus] (http://www.yelp.com/biz/crepes-on-columbus-new-york) 
+* [Freda's Caribbean & Soul Cuisine](http://www.yelp.com/biz/fredas-caribbean-and-soul-cuisine-new-york)
+* [Thai Market](http://www.yelp.com/biz/thai-market-new-york)
+* [Sookk](http://www.yelp.com/biz/sookk-new-york-2)
+* [Dinosaur BBQ](http://www.yelp.com/biz/dinosaur-bar-b-que-new-york-2)
+* [Xian Famous Foods](http://www.yelp.com/biz/xian-famous-foods-new-york-8)
+* [Crepes on Columbus](http://www.yelp.com/biz/crepes-on-columbus-new-york) 
  * Breakfast/Brunch
-* [Plowshares Coffee] (http://www.yelp.com/biz/plowshares-coffee-roasters-new-york-2)
+* [Plowshares Coffee](http://www.yelp.com/biz/plowshares-coffee-roasters-new-york-2)
  * Best in the neighborhood :coffee:. Get after bagels.
 
 #### American
@@ -41,7 +41,7 @@ Columbia :crown:
 * [Luke's Lobster](http://www.yelp.com/biz/lukes-lobster-new-york)
 * [ABC Kitchen](http://www.yelp.com/biz/abc-kitchen-new-york)
  * Fancy Burgers (everything's great actually)
-* [Artichoke Basille's Pizza] (http://www.yelp.com/biz/artichoke-basilles-pizza-new-york-3)
+* [Artichoke Basille's Pizza](http://www.yelp.com/biz/artichoke-basilles-pizza-new-york-3)
 
 #### Brunch :sunny:
 * [Joseph Leonard](http://www.yelp.com/biz/joseph-leonard-new-york)
@@ -110,7 +110,7 @@ Columbia :crown:
 
 #### Middle Eastern
 
-* [Manousheh] (http://www.yelp.com/biz/manousheh-new-york-2)
+* [Manousheh](http://www.yelp.com/biz/manousheh-new-york-2)
  * Mana'eesh!
 * [The Halal Guys](http://www.yelp.com/biz/the-halal-guys-new-york-8)
  * Storefront for classic street meat.
