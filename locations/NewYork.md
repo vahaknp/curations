@@ -175,14 +175,6 @@ Columbia :crown:
 * [Corner Bistro](http://www.yelp.com/biz/corner-bistro-new-york)
  * end your night w/ cheap beer & the house burger
 
-#### In Obscurity
-* Dinosaur BBQ
- * BBQ, Harlem
-* Lucali
- * Pizza, Carroll Gardens
-* Tortilleria Mexicana Los Hermanos | Tacos, Bushwick
- * tacos from a tortilla factory
-
 ### Experience
 
 #### Museums
@@ -239,14 +231,18 @@ Columbia :crown:
 
 #### American
 * [Fette Sau](http://www.yelp.com/biz/fette-sau-brooklyn)
-* [Roberta's Pizza](http://www.yelp.com/biz/robertas-brooklyn-2)
 * [St. Anslem](http://www.yelp.com/biz/st-anselm-brooklyn)
  * steak & pan-fried mashed potatoes; try & get a seat at the bar to watch the grill; grab a drink in spuyten duyvil’s backyard while you wait
+
+#### Mexican
+* [Tortilleria Mexicana Los Hermanos](https://www.yelp.com/biz/tortilleria-mexicana-los-hermanos-brooklyn-2)
+ * tacos from a tortilla factory
 
 #### Pizza :pizza:
 
 * [Di Fara](http://www.yelp.com/biz/di-fara-pizza-brooklyn)
 * [Lucali](http://www.yelp.com/biz/lucali-brooklyn-3)
+* [Roberta's Pizza](http://www.yelp.com/biz/robertas-brooklyn-2)
 
 #### Misc
 * [Smorgasburg](http://www.yelp.com/biz/williamsburg-smorgasburg-saturday-brooklyn)
