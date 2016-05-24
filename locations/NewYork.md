@@ -67,6 +67,8 @@ Columbia :crown:
  * Best bagels I've had in Manhattan, worth the trip up to the upper west side.
 * [Russ and Daughters](http://www.yelp.com/biz/russ-and-daughters-new-york)
  * A New York institution. Best lox+cream cheese. Seen in [Louie](https://www.youtube.com/watch?v=sYvL7GcLxLA).
+* [Russ and Daughters Cafe](https://www.yelp.com/biz/russ-and-daughters-cafe-new-york-5)
+ * Not as authentic, but way more accessible Russ and Daughters (also drinks)
 
 #### Japanese :ramen:
 
@@ -120,7 +122,9 @@ Columbia :crown:
 * [Veniero's](http://www.yelp.com/biz/venieros-pastry-shop-new-york)
  * Amazing canolli and cheese cake
 * [Doughnut Plant](http://www.yelp.com/biz/doughnut-plant-new-york)
+ * Cake donuts
 * [DOUGH](http://www.yelp.com/biz/dough-new-york-2)
+ * Classic poofy donuts
 * [Saturdays Surf NYC](http://www.yelp.com/biz/saturdays-surf-nyc-new-york)
  * Coffee, SoHo
  * Coffee shop & patio in the back of a surf shop
@@ -186,6 +190,7 @@ Columbia :crown:
 * [Moma](http://www.moma.org/)
 * [New Museum](http://www.newmuseum.org/)
 * [The Met](http://www.metmuseum.org/)
+* [The Whitney](http://whitney.org/)
 
 #### Bars
 
@@ -195,26 +200,19 @@ Columbia :crown:
  * Secret speakeasy behind art gallery. Get past the bouncer, avoid red herring club downstairs.
 * [La Bain](http://www.yelp.com/biz/le-bain-new-york?osq=la+bain)
  * Classic La Bain, top of The Standard.
-
-#### Drinks
-
-* B Flat | Cocktails, Tribeca
- * Underground jazz & cocktails
- * get the fried chicken app
-* Burp Castle | Pub, E Village
+* [Burp Castle](https://www.yelp.com/biz/burp-castle-new-york)
  * “Temple of beer worship”; you will get shh’d by the bartender if your conversation is too loud
-* Ear Inn | Dive, SoHo
- * one of the oldest in ny
-* Fat Cat | Pool Hall, W Village
+* [Ear Inn](https://www.yelp.com/biz/ear-inn-new-york)
+  * one of the oldest in ny
+* [Fat Cat](https://www.yelp.com/biz/fat-cat-new-york-2)
  * live music, ping pong, shuffle, pool, games
-* Mother’s Ruin | Cocktails, Nolita
-* Pine Box Rock Shop | Bloody Mary's, Bushwick
- * on a 1-10 spicyness scale
-* Smith & Mills | Cocktails, Tribeca
+* [Mother's Ruin](https://www.yelp.com/biz/mothers-ruin-new-york)
+ * Cocktails in Nolita
+* [Smith & Mills](https://www.yelp.com/biz/smith-and-mills-new-york)
  * drop in before/after dinner at Locanda
-* Terroir | Wine Bar, Tribeca
- * hipster bearded winos
-
+* [Terroir](https://www.yelp.com/biz/terroir-tribeca-new-york)
+  * hipster bearded winos
+ 
 #### Todo
 
 * [Moma PS1](http://momaps1.org/)
@@ -223,6 +221,17 @@ Columbia :crown:
  * More standup comedy club. Lots of guest celebs.
 * [UCB West](http://www.yelp.com/biz/upright-citizens-brigade-theatre-new-york-5)
  * More improv comedy club.
+* [B Flat](https://www.yelp.com/biz/b-flat-new-york)
+ * Underground jazz and cocktails (++ fried chicken app)
+* [Smoke](https://www.yelp.com/biz/smoke-jazz-club-new-york)
+ * Fancy jazz and supper club
+
+#### Shop
+
+* [Casey Rubber Stamps](https://www.yelp.com/biz/casey-rubber-stamps-new-york)
+ * Weird but awesome rubber stamp shop. Go for the stamps, stay for the eccentric irishman
+* [La Belle Epoque Vintage Poster Shop](https://www.yelp.com/biz/la-belle-epoque-vintage-posters-and-framing-new-york)
+ * Great authentic french poster shop
 
 ## Brooklyn
 
@@ -269,6 +278,8 @@ Columbia :crown:
  * shuffleboard
 * [Brouwerij Lane](http://www.yelp.com/biz/brouwerij-lane-brooklyn)
  * unassuming beer store with a few taps & a little back patio
+* [Pine Box Rock Shop](https://www.yelp.com/biz/pine-box-rock-shop-brooklyn)
+ * Bloody Mary's on 1-10 spicyness scale
 
 
 #### Museums
@@ -297,5 +308,6 @@ Special Thanks!
 * Yokopopo
 * Reed
 * Ramen Club
+* Souren
 
-Email me suggestions at souren@papazian.info if you want to contribute!
+Email me suggestions at souren@papazian.info or vahakn@papazian.info if you want to contribute!
