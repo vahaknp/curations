@@ -29,6 +29,7 @@ List of amazing things to eat, do and experience in LA
 
 ### Italian
 * [Mozza](http://www.yelp.com/biz/osteria-mozza-los-angeles)
+* [Casa Bianca Pizza Pie](https://www.yelp.com/biz/casa-bianca-pizza-pie-los-angeles)
 
 ### Japanese
 * [Marugame Monzo](http://www.yelp.com/biz/marugame-monzo-los-angeles-2)
@@ -60,6 +61,7 @@ List of amazing things to eat, do and experience in LA
 ### Armenian
 * [Mantee](http://www.yelp.com/biz/mantee-cafe-studio-city-3)
 * [Mini Kebab](http://www.yelp.com/biz/mini-kabob-glendale)
+* [Falafel Arax](https://www.yelp.com/biz/falafel-arax-los-angeles)
 
 ### Food Truck
 * [Kogi Truck](http://www.yelp.com/biz/kogi-bbq-truck-los-angeles)
@@ -82,6 +84,9 @@ List of amazing things to eat, do and experience in LA
 * [Diddy Riese](http://www.yelp.com/biz/diddy-riese-los-angeles)
 * [Proof Bakery](http://www.yelp.com/biz/proof-bakery-los-angeles)
 * [Porto's](http://www.yelp.com/biz/portos-bakery-glendale)
+* [Bottega Louie](https://www.yelp.com/biz/bottega-louie-los-angeles)
+* [Foster's Freeze](https://www.yelp.com/biz/fosters-freeze-burbank)
+* [Sidecar Doughnuts](https://www.yelp.com/biz/sidecar-doughnuts-and-coffee-costa-mesa)
 
 ## Experience
 
@@ -137,6 +142,46 @@ List of amazing things to eat, do and experience in LA
 ### Misc
 * [Gamehaus](http://www.yelp.com/biz/game-haus-cafe-glendale)
 * [Rose Bowl Flea Market](http://www.yelp.com/biz/rose-bowl-flea-market-pasadena)
+
+## To Try
+* [Sushi Stop](https://www.yelp.com/biz/sushistop-los-angeles-6)
+* [Hamasaku](https://www.yelp.com/biz/hamasaku-los-angeles)
+* [Sasabune](https://www.yelp.com/biz/sushi-sasabune-los-angeles-2)
+* [Uncle John's Cafe](https://www.yelp.com/biz/uncle-johns-cafe-los-angeles)
+* [Nick + Stef's Steakhouse](https://www.yelp.com/biz/nick-stefs-steakhouse-los-angeles-3)
+* [Pasta Sisters](https://www.yelp.com/biz/pasta-sisters-los-angeles)
+* [Osteria Mama](https://www.yelp.com/biz/osteria-mamma-los-angeles)
+* [Vicious Dogs](https://www.yelp.com/biz/vicious-dogs-north-hollywood)
+* [Oo Kook](https://www.yelp.com/biz/oo-kook-korean-bbq-los-angeles)
+* [Quarters Kbbq](https://www.yelp.com/biz/quarters-korean-bbq-los-angeles)
+* [ChoSun Galbee](https://www.yelp.com/biz/chosun-galbee-los-angeles)
+* [Blinkie's Donut Emporium](https://www.yelp.com/biz/blinkies-donut-emporium-woodland-hills-2)
+* [The Church Key](https://www.yelp.com/biz/the-church-key-west-hollywood)
+* [Birdies](https://www.yelp.com/biz/birdies-los-angeles-3)
+* [Guisados](https://www.yelp.com/biz/guisados-los-angeles)
+* [Scoops](https://www.yelp.com/biz/scoops-los-angeles)
+* [Lao Tao](https://www.yelp.com/biz/lao-tao-los-angeles)
+* [Connie and Ted's](https://www.yelp.com/biz/connie-and-teds-west-hollywood-2)
+* [Golden Deli](https://www.yelp.com/biz/golden-deli-san-gabriel)
+* [The Donut Man](https://www.yelp.com/biz/the-donut-man-glendora)
+* [Langer's](https://www.yelp.com/biz/langers-los-angeles-2)
+* [Eggslut](https://www.yelp.com/biz/eggslut-los-angeles-5)
+* [Canter's Deli](https://www.yelp.com/biz/canters-deli-los-angeles-5)
+* [Vito's](https://www.yelp.com/biz/vitos-pizza-los-angeles-2)
+* [Bob's Coffee and Doughnuts](https://www.yelp.com/biz/bobs-coffee-and-doughnuts-los-angeles-2)
+* [Bestia](https://www.yelp.com/biz/bestia-los-angeles)
+* [Yang Chow](https://www.yelp.com/biz/yang-chow-los-angeles)
+* [Cofax](https://www.yelp.com/biz/cofax-coffee-shop-los-angeles)
+* [Ricky's Fish Tacos](https://www.yelp.com/biz/rickys-fish-tacos-los-angeles-3)
+* [Petit Trois](https://www.yelp.com/biz/petit-trois-los-angeles-4)
+* [Melisse](https://www.yelp.com/biz/m%C3%A9lisse-santa-monica-3)
+* [Angelini Osteria](https://www.yelp.com/biz/angelini-osteria-los-angeles)
+* [Magal BBQ](https://www.yelp.com/biz/magal-bbq-los-angeles)
+* [Daikokuya Ramen](https://www.yelp.com/biz/daikokuya-little-tokyo-los-angeles)
+* [Spago](https://www.yelp.com/biz/spago-beverly-hills-beverly-hills)
+* [Cassell's Hamburgers](https://www.yelp.com/biz/cassells-hamburgers-los-angeles-2)
+* [Pie n Burger](https://www.yelp.com/biz/pie-n-burger-pasadena-2)
+
 
 ## Credits and Thanks
 
