@@ -142,4 +142,4 @@ List of amazing things to eat, do and experience in LA
 
 A great majority of these were suggested to me by others. Just sharing what I've collected from friends and adding my own!
 
-Email me suggestions at souren@papazian.info if you want to contribute!
+Email me suggestions at souren@papazian.info or vahakn@papazian.info if you want to contribute!
