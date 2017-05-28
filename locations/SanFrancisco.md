@@ -5,8 +5,14 @@ List of amazing things to eat, do and experience in SF
 
 ### Food
 
+#### American
+* [Mr. Pollo](https://www.yelp.com/biz/mr-pollo-san-francisco)
+* [Fat Angel](https://www.yelp.com/biz/fat-angel-san-francisco)
+
 #### Pizza
 * [Tony's Pizza](https://www.yelp.com/biz/tonys-pizza-napoletana-san-francisco)
+* [Pizzeria Delfina](https://www.yelp.com/biz/pizzeria-delfina-san-francisco-san-francisco)
+* [Golden Boy](https://www.yelp.com/biz/golden-boy-pizza-san-francisco)
 
 #### Sandwiches
 * [Molinari's Deli](https://www.yelp.com/biz/molinari-delicatessen-san-francisco)
@@ -28,12 +34,17 @@ List of amazing things to eat, do and experience in SF
 * [Elephant Sushi](https://www.yelp.com/biz/elephant-sushi-san-francisco-7)
 * [Japanese Tea Garden](https://www.yelp.com/biz/japanese-tea-garden-san-francisco)
 * [Dumpling Kitchen](https://www.yelp.com/biz/dumpling-kitchen-san-francisco)
+* [Halu](https://www.yelp.com/biz/halu-san-francisco)
+* [Yank Sing](https://www.yelp.com/biz/yank-sing-san-francisco-2)
+* [Eiji](https://www.yelp.com/biz/eiji-san-francisco)
+* [Shalimar](https://www.yelp.com/biz/shalimar-san-francisco-4)
 
 #### Mexican
 * [La Taqueria](https://www.yelp.com/biz/la-taqueria-san-francisco-2)
 * [El Farolito](https://www.yelp.com/biz/el-farolito-san-francisco-2)
 * [Taqueria Cancun](https://www.yelp.com/biz/taqueria-canc%C3%BAn-san-francisco-5)
 * [La Oaxaquena](https://www.yelp.com/biz/la-oaxaque%C3%B1a-san-francisco-2)
+* [Garaje](https://www.yelp.com/biz/garaje-san-francisco)
 
 #### Seafood
 * [Swan Oyster Depot](https://www.yelp.com/biz/swan-oyster-depot-san-francisco)
@@ -50,8 +61,25 @@ List of amazing things to eat, do and experience in SF
 * [Bob's Donuts](https://www.yelp.com/biz/bobs-donut-and-pastry-shop-san-francisco-2)
 * [Tartine Bakery](https://www.yelp.com/biz/tartine-bakery-and-cafe-san-francisco)
 * [Bi Rite Ice Cream](https://www.yelp.com/biz/bi-rite-creamery-san-francisco)
+* [Boulette's](https://www.yelp.com/biz/boulettes-larder-and-boulibar-san-francisco)
+* [Humphry Slocombe](https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco)
+* [Smitten](https://www.yelp.com/biz/smitten-ice-cream-san-francisco-3)
+* [The Ice Cream Bar](https://www.yelp.com/biz/the-ice-cream-bar-san-francisco)
+
+#### Coffee
+* [Coffee Bar](https://www.yelp.com/biz/coffee-bar-san-francisco-2)
+* [Blue Bottle](https://www.yelp.com/biz/blue-bottle-coffee-san-francisco-14)
+* [Black Jet Baking Co](https://www.yelp.com/biz/black-jet-baking-co-san-francisco)
+* [Pinhole Coffee](https://www.yelp.com/biz/pinhole-coffee-san-francisco-3)
 
 ### Experience
+
+#### To Do
+* [Urban Putt](https://www.yelp.com/biz/urban-putt-san-francisco)
+* [Mission Bowling Club](https://www.yelp.com/biz/mission-bowling-club-san-francisco)
+* [SPiN](https://www.yelp.com/biz/spin-san-francisco)
+* [Off the Grid](https://offthegrid.com/)
+* [Musee Mechanique](http://www.museemechanique.org/)
 
 #### Bars
 * [Soda Popinski's](https://www.yelp.com/biz/soda-popinskis-san-francisco)
@@ -63,11 +91,16 @@ List of amazing things to eat, do and experience in SF
 * [Two Sisters Bar and Books](https://www.yelp.com/biz/two-sisters-bar-and-books-san-francisco)
 * [Sycamore](https://www.yelp.com/biz/the-sycamore-san-francisco)
 * [Rye](https://www.yelp.com/biz/rye-san-francisco)
+* [Bourbon and Branch](https://www.yelp.com/biz/bourbon-and-branch-san-francisco)
+* [Trick Dog](https://www.yelp.com/biz/trick-dog-san-francisco)
+* [The Alembic](https://www.yelp.com/biz/the-alembic-san-francisco)
 
 #### Museums 
 * [California Academy of Sciences](https://www.yelp.com/biz/california-academy-of-sciences-san-francisco)
 * [de Young](https://www.yelp.com/biz/de-young-san-francisco)
 * [Exploratorium](https://www.yelp.com/biz/exploratorium-san-francisco-2)
+* [SF Moma](https://www.sfmoma.org/)
+* [The Contemporary Jewish Museum](https://www.thecjm.org/)
 
 #### Theaters
 * [Kabuki Cinema](https://www.yelp.com/biz/sundance-kabuki-cinema-san-francisco)
@@ -76,13 +109,67 @@ List of amazing things to eat, do and experience in SF
 * [The Marsh](https://www.yelp.com/biz/the-marsh-san-francisco)
 * [Cheaper Than Therapy](https://www.yelp.com/biz/cheaper-than-therapy-san-francisco)
 * [Too Much Light Makes the Baby Go Blind](https://www.yelp.com/biz/too-much-light-makes-the-baby-go-blind-san-francisco)
+* [Alamo Draft House](https://www.yelp.com/biz/alamo-drafthouse-cinema-new-mission-san-francisco)
 
 #### Nature
 * [Mt Davidson](https://www.yelp.com/biz/mount-davidson-park-san-francisco)
+* [Bernal Heights Park](https://www.yelp.com/biz/bernal-heights-park-san-francisco)
+* [Corona Heights Park](https://www.yelp.com/biz/corona-heights-park-san-francisco)
 
 ### Misc
 * [Royal Market](https://www.yelp.com/biz/royal-market-and-bakery-san-francisco)
 * [Bi Rite Market](https://www.yelp.com/biz/bi-rite-market-san-francisco)
+
+### To Try
+* [Media Noche](https://www.yelp.com/biz/media-noche-san-francisco-4)
+* [The Mill](https://www.yelp.com/biz/the-mill-san-francisco)
+* [August 1 Five](https://www.yelp.com/biz/august-1-five-san-francisco)
+* [Onsen](https://www.yelp.com/biz/onsen-bath-san-francisco)
+* [Smuggler's Cove](https://www.yelp.com/biz/smugglers-cove-san-francisco)
+* [Sotto Mare](https://www.yelp.com/biz/sotto-mare-san-francisco)
+* [Nojo Ramen Tavern](https://www.yelp.com/biz/nojo-ramen-tavern-san-francisco-2)
+* [b Patisserie](https://www.yelp.com/biz/b-patisserie-san-francisco-2)
+* [Neighbor Bakehouse](https://www.yelp.com/biz/neighbor-bakehouse-san-francisco)
+* [Hakkasan](https://www.yelp.com/biz/hakkasan-san-francisco-2)
+* [Oliver's Butchery](https://www.yelp.com/biz/oliviers-butchery-san-francisco)
+* [Holy Water](https://www.yelp.com/biz/holy-water-san-francisco)
+* [Blue Plate](https://www.yelp.com/biz/blue-plate-san-francisco)
+* [Saru Sushi](https://www.yelp.com/biz/saru-sushi-bar-san-francisco)
+* [La Ciccia](https://www.yelp.com/biz/la-ciccia-san-francisco)
+* [3rd Cousin](https://www.yelp.com/biz/3rd-cousin-san-francisco-2)
+* [Blackbird](https://www.yelp.com/biz/blackbird-san-francisco)
+* [Thorough Bread and Pastry](https://www.yelp.com/biz/thorough-bread-and-pastry-san-francisco)
+* [Hole in the Wall Coffee](https://www.yelp.com/biz/hole-in-the-wall-coffee-san-francisco)
+* [Mister Jiu's](https://www.yelp.com/biz/mister-jius-san-francisco)
+* [Zazie](https://www.yelp.com/biz/zazie-san-francisco)
+* [Mac Daddy](https://www.yelp.com/biz/mac-daddy-san-francisco)
+* [Zuni Cafe](https://www.yelp.com/biz/zuni-caf%C3%A9-san-francisco-3)
+* [Izakaya Rintaro](https://www.yelp.com/biz/izakaya-rintaro-san-francisco)
+* [Foreign Cinema](https://www.yelp.com/biz/foreign-cinema-san-francisco)
+* [Californio's](https://www.yelp.com/biz/californios-san-francisco)
+* [Lazy Bear](https://www.yelp.com/biz/lazy-bear-san-francisco-5)
+* [Liholiho Yacht Club](https://www.yelp.com/biz/liholiho-yacht-club-san-francisco-2)
+* [Bellota](https://www.yelp.com/biz/bellota-san-francisco)
+* [Whitechapel](https://www.yelp.com/biz/whitechapel-sf-san-francisco)
+* [Nook](https://www.yelp.com/biz/nook-san-francisco)
+* [Nopa](https://www.yelp.com/biz/nopa-san-francisco)
+* [Nopalito](https://www.yelp.com/biz/nopalito-san-francisco)
+* [Cocksomb](https://www.yelp.com/biz/cockscomb-san-francisco)
+* [State Bird Provisions](https://www.yelp.com/biz/state-bird-provisions-san-francisco)
+* [Caffe Trieste](https://www.yelp.com/biz/caffe-trieste-san-francisco-5)
+* [Craftsman and Wolves](https://www.yelp.com/biz/craftsman-and-wolves-san-francisco)
+* [La Victoria](https://www.yelp.com/biz/la-victoria-mexican-bakery-and-cafe-san-francisco)
+* [Mitchell's Ice Cream](https://www.yelp.com/biz/mitchells-ice-cream-san-francisco)
+* [Swensen's Ice Cream](https://www.yelp.com/biz/swensens-ice-cream-san-francisco)
+* [Zanze's Cheesecake](https://www.yelp.com/biz/zanzes-cheesecake-san-francisco)
+* [Udupi Palace](https://www.yelp.com/biz/udupi-palace-san-francisco)
+* [Uncle Benny's Donut](https://www.yelp.com/biz/uncle-bennys-donut-and-bagel-san-francisco)
+* [Salt and Straw](https://www.yelp.com/biz/salt-and-straw-san-francisco-4)
+* [B-Side](https://www.yelp.com/biz/b-side-san-francisco-2)
+* [Devil's Teeth Baking Company](https://www.yelp.com/biz/devils-teeth-baking-company-san-francisco)
+* [Tu Lan](https://www.yelp.com/biz/t%C3%BA-lan-san-francisco-4)
+* [The Castro Fountain](https://www.yelp.com/biz/the-castro-fountain-san-francisco)
+* [Garden Creamery](https://www.yelp.com/biz/garden-creamery-san-francisco-3)
 
 ## East Bay
 

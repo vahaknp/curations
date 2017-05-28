@@ -181,6 +181,7 @@ List of amazing things to eat, do and experience in LA
 * [Spago](https://www.yelp.com/biz/spago-beverly-hills-beverly-hills)
 * [Cassell's Hamburgers](https://www.yelp.com/biz/cassells-hamburgers-los-angeles-2)
 * [Pie n Burger](https://www.yelp.com/biz/pie-n-burger-pasadena-2)
+* [Komodo](https://www.yelp.com/biz/komodo-los-angeles-6)
 
 
 ## Credits and Thanks
