@@ -189,6 +189,8 @@ List of amazing things to eat, do and experience in SF
 * [Outbound](https://www.yelp.com/biz/woods-outbound-san-francisco)
 * [Rusted Mule](https://www.yelp.com/biz/rusted-mule-san-francisco)
 * [Nomica](https://www.yelp.com/biz/nomica-san-francisco)
+* [Bix](https://www.yelp.com/biz/bix-san-francisco)
+* [20 Spot](https://www.yelp.com/biz/20-spot-san-francisco)
 
 ## East Bay
 
