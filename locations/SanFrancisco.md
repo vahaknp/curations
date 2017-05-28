@@ -5,6 +5,9 @@ List of amazing things to eat, do and experience in SF
 
 ### Food
 
+#### Breakfast/Brunch
+* [Dottie's True Blue Cafe](https://www.yelp.com/biz/dotties-true-blue-cafe-san-francisco)
+
 #### American
 * [Mr. Pollo](https://www.yelp.com/biz/mr-pollo-san-francisco)
 * [Fat Angel](https://www.yelp.com/biz/fat-angel-san-francisco)
@@ -21,23 +24,29 @@ List of amazing things to eat, do and experience in SF
 * [Submarine Center](https://www.yelp.com/biz/submarine-center-san-francisco)
 * [Ike's](https://www.yelp.com/biz/ikes-place-san-francisco)
 
-#### Asian
-* [Yamo](https://www.yelp.com/biz/yamo-san-francisco)
-* [Bund Shanghai](https://www.yelp.com/biz/bund-shanghai-san-francisco)
-* [House of Nanking](https://www.yelp.com/biz/house-of-nanking-san-francisco)
-* [Akiko's](https://www.yelp.com/biz/akikos-restaurant-san-francisco)
-* [The Chairman](https://www.yelp.com/biz/the-chairman-san-francisco-2)
+#### Indian
+* [Shalimar](https://www.yelp.com/biz/shalimar-san-francisco-4)
+
+#### Japanese
 * [Mensho Ramen](https://www.yelp.com/biz/mensho-tokyo-san-francisco-2)
-* [Farmhouse Thai](https://www.yelp.com/biz/farmhouse-kitchen-thai-cuisine-san-francisco)
+* [Japanese Tea Garden](https://www.yelp.com/biz/japanese-tea-garden-san-francisco)
 * [Muracci's Japanese Curry](https://www.yelp.com/biz/muraccis-japanese-curry-and-grill-san-francisco)
 * [Sushi Time](https://www.yelp.com/biz/sushi-time-san-francisco-2)
 * [Elephant Sushi](https://www.yelp.com/biz/elephant-sushi-san-francisco-7)
-* [Japanese Tea Garden](https://www.yelp.com/biz/japanese-tea-garden-san-francisco)
-* [Dumpling Kitchen](https://www.yelp.com/biz/dumpling-kitchen-san-francisco)
 * [Halu](https://www.yelp.com/biz/halu-san-francisco)
-* [Yank Sing](https://www.yelp.com/biz/yank-sing-san-francisco-2)
 * [Eiji](https://www.yelp.com/biz/eiji-san-francisco)
-* [Shalimar](https://www.yelp.com/biz/shalimar-san-francisco-4)
+* [Akiko's](https://www.yelp.com/biz/akikos-restaurant-san-francisco)
+
+#### Chinese
+* [Yank Sing](https://www.yelp.com/biz/yank-sing-san-francisco-2)
+* [Yamo](https://www.yelp.com/biz/yamo-san-francisco)
+* [Bund Shanghai](https://www.yelp.com/biz/bund-shanghai-san-francisco)
+* [House of Nanking](https://www.yelp.com/biz/house-of-nanking-san-francisco)
+* [Dumpling Kitchen](https://www.yelp.com/biz/dumpling-kitchen-san-francisco)
+* [The Chairman](https://www.yelp.com/biz/the-chairman-san-francisco-2)
+
+#### Thai
+* [Farmhouse Thai](https://www.yelp.com/biz/farmhouse-kitchen-thai-cuisine-san-francisco)
 
 #### Mexican
 * [La Taqueria](https://www.yelp.com/biz/la-taqueria-san-francisco-2)
@@ -60,11 +69,14 @@ List of amazing things to eat, do and experience in SF
 * [Mr. Holmes Bakehouse](https://www.yelp.com/biz/mr-holmes-bakehouse-san-francisco)
 * [Bob's Donuts](https://www.yelp.com/biz/bobs-donut-and-pastry-shop-san-francisco-2)
 * [Tartine Bakery](https://www.yelp.com/biz/tartine-bakery-and-cafe-san-francisco)
-* [Bi Rite Ice Cream](https://www.yelp.com/biz/bi-rite-creamery-san-francisco)
 * [Boulette's](https://www.yelp.com/biz/boulettes-larder-and-boulibar-san-francisco)
+
+
+#### Ice Cream
 * [Humphry Slocombe](https://www.yelp.com/biz/humphry-slocombe-ice-cream-san-francisco)
 * [Smitten](https://www.yelp.com/biz/smitten-ice-cream-san-francisco-3)
 * [The Ice Cream Bar](https://www.yelp.com/biz/the-ice-cream-bar-san-francisco)
+* [Bi Rite Ice Cream](https://www.yelp.com/biz/bi-rite-creamery-san-francisco)
 
 #### Coffee
 * [Coffee Bar](https://www.yelp.com/biz/coffee-bar-san-francisco-2)
@@ -94,6 +106,7 @@ List of amazing things to eat, do and experience in SF
 * [Bourbon and Branch](https://www.yelp.com/biz/bourbon-and-branch-san-francisco)
 * [Trick Dog](https://www.yelp.com/biz/trick-dog-san-francisco)
 * [The Alembic](https://www.yelp.com/biz/the-alembic-san-francisco)
+* [Zeitgeist](https://www.yelp.com/biz/zeitgeist-san-francisco)
 
 #### Museums 
 * [California Academy of Sciences](https://www.yelp.com/biz/california-academy-of-sciences-san-francisco)
@@ -170,6 +183,12 @@ List of amazing things to eat, do and experience in SF
 * [Tu Lan](https://www.yelp.com/biz/t%C3%BA-lan-san-francisco-4)
 * [The Castro Fountain](https://www.yelp.com/biz/the-castro-fountain-san-francisco)
 * [Garden Creamery](https://www.yelp.com/biz/garden-creamery-san-francisco-3)
+* [Plow](https://www.yelp.com/biz/plow-san-francisco)
+* [Serpentine](https://www.yelp.com/biz/serpentine-san-francisco)
+* [Chubby Noodle](https://www.yelp.com/biz/chubby-noodle-san-francisco-3)
+* [Outbound](https://www.yelp.com/biz/woods-outbound-san-francisco)
+* [Rusted Mule](https://www.yelp.com/biz/rusted-mule-san-francisco)
+* [Nomica](https://www.yelp.com/biz/nomica-san-francisco)
 
 ## East Bay
 
