@@ -32,6 +32,12 @@ Columbia :crown:
 
 #### American
 
+* [Katz's Delicatessen](www.yelp.com/biz/katzs-delicatessen-new-york)
+  * Best pastrami you'll ever have
+* [Russ & Daughters Cafe](https://www.yelp.com/biz/russ-and-daughters-cafe-new-york-5)
+  * Jewish deli food heaven
+  * Featured in Louie S03E05 "Daddy's Girlfriend Part 2"
+  * Also comes in [deli form](https://www.yelp.com/biz/russ-and-daughters-new-york) 
 * [The Spotted Pig](http://www.thespottedpig.com/)
  * Michelin star, probably amazing brunch.
 * [Criff Dogs](http://www.yelp.com/biz/crif-dogs-new-york)
@@ -86,7 +92,6 @@ Columbia :crown:
 * [Yakitori Totto](http://www.yelp.com/biz/yakitori-totto-new-york)
   * authentic yakitori
 
-
 #### Chinese
 
 * [Joe's Shanghai](http://www.yelp.com/biz/joes-shanghai-new-york-2)
@@ -131,7 +136,7 @@ Columbia :crown:
 * [Dominique Ansel Bakery](http://www.yelp.com/biz/dominique-ansel-bakery-new-york)
  * Cronuts
 
-#### Feeling Hoity Toity ($$$-$$$$)
+#### $$$$
 
 * [Locanda Verde](http://www.yelp.com/biz/locanda-verde-new-york)
  * get the sheep’s milk ricotta and save room for dessert
