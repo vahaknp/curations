@@ -25,29 +25,29 @@ Amazing huge fish market. Very touristic at this point but still worth going.  I
 Start at Kudanshita station and make your way down. The whole park is worth exploring.
 
 * Nippon Budokan
- * We stumbled in for Saturday morning tournaments. Really cool.
+  * We stumbled in for Saturday morning tournaments. Really cool.
 * National Museum of Modern Art
- * Amazing art, part of which is  Japanese.
+  * Amazing art, part of which is  Japanese.
 * Imperial Palace
 
 ### Food
 
 #### Sushi :sushi:
 * [UOBEI](http://www.tripadvisor.com/Restaurant_Review-g1066456-d3871559-Reviews-Uobei_Shibuya_Dogenzaka-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
- * Touch screen ¥100 sushi that zips to you on rails
+  * Touch screen ¥100 sushi that zips to you on rails
 * [Midori](http://www.sushinomidori.co.jp/honkan.html)
- * A **must**
- * Best sushi I've had in my life. Worth the wait.
- * Umegaoka location preferable
+  * A **must**
+  * Best sushi I've had in my life. Worth the wait.
+  * Umegaoka location preferable
 
 
 #### Ramen :ramen:
 * [Ichiran](http://www.tripadvisor.com/Restaurant_Review-g1066456-d1688898-Reviews-Ichiran_Shibuya-Shibuya_Tokyo_uTokyo_Prefecture_Kanto.html)
- * Interesting booth style seating. Delicious.
+  * Interesting booth style seating. Delicious.
 * [Seiya](http://www.seiya-net.com/)*
 * [Ramen Hakubutsukan](http://www.raumen.co.jp/floor/)*
 * [Ippudo](http://www.ippudo.com/index.html)
- * Always a safe bet, but not amazing.
+  * Always a safe bet, but not amazing.
 
 ## Kyoto
 
@@ -73,10 +73,10 @@ Kyoto is a very bike friendly city and biking from temple to temple through alle
 ### Food
 
 * [はなまる串カツ製作所](http://tabelog.com/en/kyoto/A2601/A260101/26018242/?rvwid=6186436) :sake:
- * Izakaya - cozy authentic place with delicious deep fried finger food and drinks. Go at night, wait out the line.
+  * Izakaya - cozy authentic place with delicious deep fried finger food and drinks. Go at night, wait out the line.
 
 * [Kyogaku Kaneyo](http://kyotofoodie.com/kaneyo-kyoto-unagi-eel-restaurant/)
- * A long-loved eel restaurant from the taisho era. They've been in business for around 100 years. This place is a **must**. (a bit pricey)
+  * A long-loved eel restaurant from the taisho era. They've been in business for around 100 years. This place is a **must**. (a bit pricey)
 
 * [Kagizen Yoshifusa](http://www.yelp.com/biz/%E9%8D%B5%E5%96%84%E8%89%AF%E6%88%BF-%E6%9C%AC%E5%BA%97-%E4%BA%AC%E9%83%BD%E5%B8%82)*
  * Kyoto is all about Japanese confectionaries. Kagizen Yoshifusa is most famous for its kuzukiri noodles. This is the only place the imperial palace orders kuzukiri noodles from. Definitely come here when you are walking around Gion!
@@ -84,44 +84,45 @@ Kyoto is a very bike friendly city and biking from temple to temple through alle
 ### Temples & Shrines
 
 * [Kiyomizu-dera](https://en.wikipedia.org/wiki/Kiyomizu-dera)
- * A **must**
- * A lot of different religious artifacts to see
- * Overlooks Kyoto
+  * A **must**
+  * A lot of different religious artifacts to see
+  * Overlooks Kyoto
 
 * [Fushimi-inari shrine](https://en.wikipedia.org/wiki/Fushimi_Inari-taisha)
- * A **must**
- * Tori tunnels, beautiful
- * Fox statues
+  * A **must**
+  * Tori tunnels, beautiful
+  * Fox statues
 
 * [Daigo-ji](https://en.wikipedia.org/wiki/Daigo-ji)*
- *  It is a mountain with temples scattered all over it. Monks come here to train and you can see the houses they live in. It is technically a hike, but a beautiful one.
+  * A mountain with temples scattered all over it. Monks come here to train and you can see the houses they live in.
+  * Technically a hike, but a beautiful one.
 
 * [Chūgū-ji](https://en.wikipedia.org/wiki/Ch%C5%ABg%C5%AB-ji)*
- * Miroku Bosatsu statue
+  * Miroku Bosatsu statue
 
 * [Saiho-ji](http://www.japan-guide.com/e/e3937.html)*
- * Amazing moss garden. Need to apply for visitor passes, long process but pays off.
+  * Amazing moss garden. Need to apply for visitor passes, long process but pays off.
 
 * [Ryoan-ji](https://en.wikipedia.org/wiki/Ry%C5%8Dan-ji)*
- * One of the first, if not the first, Zen temple. It is a large complex with a cool rock garden etc.
+  * One of the first, if not the first, Zen temple. It is a large complex with a cool rock garden etc.
 
 ### Nara
 
 Good day trip from Kyoto.
 
 * Deer
- * Everywhere
- * Photograph, pet, feed, get bitten.
+  * Everywhere
+  * Photograph, pet, feed, get bitten.
 
 * [Todai-ji Temple](https://en.wikipedia.org/wiki/T%C5%8Ddai-ji)
- * Astonishing - houses the world's largest bronze statue of the Buddha
- * Try to pass through buddha's nostril - get blessed.
+  * Astonishing - houses the world's largest bronze statue of the Buddha
+  * Try to pass through buddha's nostril - get blessed.
 
 ### Osaka
 
 Good day trip from Kyoto.
 
-* *shrug*
+*  *shrug*
 
 ## Misc
 
