@@ -62,6 +62,10 @@ List of amazing things to eat, do and experience in LA
 * [Mantee](http://www.yelp.com/biz/mantee-cafe-studio-city-3)
 * [Mini Kebab](http://www.yelp.com/biz/mini-kabob-glendale)
 * [Falafel Arax](https://www.yelp.com/biz/falafel-arax-los-angeles)
+* [Raffi's](https://www.yelp.com/biz/raffis-place-glendale-2)
+
+### Lebanese
+* [Skaf's]https://www.yelp.com/biz/skafs-lebanese-cuisine-glendale
 
 ### Food Truck
 * [Kogi Truck](http://www.yelp.com/biz/kogi-bbq-truck-los-angeles)
@@ -75,6 +79,7 @@ List of amazing things to eat, do and experience in LA
 ### Chinese
 * [Din Tai Fung](http://www.yelp.com/biz/din-tai-fung-glendale-6)
 * [Sam Woo](http://www.yelp.com/biz/hong-kong-bbq-los-angeles)
+* [Wu Ming Hot Pot](https://www.yelp.com/biz/wu-ming-hot-pot-san-gabriel?osq=Wuming+Hot+Pot)
 
 ### Dessert
 * [DK Donuts](http://www.yelp.com/biz/dks-donuts-and-bakery-santa-monica)
